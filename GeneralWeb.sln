@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deploy_cert_include", "deploy_cert_include\deploy_cert_include.csproj", "{8FD6BE77-2226-4B65-9C76-64447249FDD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deploy_cert_include_core", "deploy_cert_include_core\deploy_cert_include_core.csproj", "{89853F9F-D850-4D57-BAFE-EC99636B3306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FD6BE77-2226-4B65-9C76-64447249FDD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD6BE77-2226-4B65-9C76-64447249FDD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD6BE77-2226-4B65-9C76-64447249FDD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD6BE77-2226-4B65-9C76-64447249FDD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89853F9F-D850-4D57-BAFE-EC99636B3306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89853F9F-D850-4D57-BAFE-EC99636B3306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89853F9F-D850-4D57-BAFE-EC99636B3306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89853F9F-D850-4D57-BAFE-EC99636B3306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA2E119B-538A-4C48-A6A9-EA5EE6B665EB}
+	EndGlobalSection
+EndGlobal
